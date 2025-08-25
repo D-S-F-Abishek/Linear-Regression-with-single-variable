@@ -1,7 +1,7 @@
 Benefits of this project:
 Helps in the understanding of raw code from scratch instead of depending on ML libraries. Usage of ML libraries is good for optimisation of code but we do not get a chance to learn how the code works, thus concluding in building this project. 
 
-What is done in the project? 
+Objectives of the project:
 
 1) Linear Regression from Scratch: Implementation of a single-variable linear regression model without high-level ML libraries.
 
